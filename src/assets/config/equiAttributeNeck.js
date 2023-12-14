@@ -31,7 +31,7 @@ export const equiAttributeNeck = {
         name: '独特',
         qualityCoefficient: 2,
         probability: '0',
-        color: '#ff0000', extraEntryNum: 5,
+        color: '#ff0000', extraEntryNum: 10,
       }],
       extraEntryNeck: [{
         'value': '11',

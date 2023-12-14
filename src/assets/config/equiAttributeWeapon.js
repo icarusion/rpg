@@ -31,7 +31,7 @@ export const equiAttributeWeapon = {
         name: '独特',
         qualityCoefficient: 2.2,
         probability: '0',
-        color: '#ff0000', extraEntryNum: 5,
+        color: '#ff0000', extraEntryNum: 10,
       }],
       uniqueCategory: [{
         name: '创世亡命剑',
